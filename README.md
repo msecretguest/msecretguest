@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msecretguest
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning Python, Django, JS, VueJS, Angular, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anyone cool :)
 - 📫 How to reach me laphan@list.ru
 
 <!---
